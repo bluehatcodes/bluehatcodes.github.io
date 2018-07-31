@@ -53,6 +53,10 @@ body,html{
     height: 612px;
     margin: 10px;
     border-radius: 4px;
+    display:flex;
+    flex-warp:warp;
+    
+    
 }
 
 #content{
