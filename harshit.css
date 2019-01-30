@@ -1,0 +1,26 @@
+.cards_container{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.473);
+    position: relative;
+    /* margin-top: 4rem; */
+}
+
+
+
+/* not needed now  */
+/* .cards{
+    background-color: rgba(0, 0, 0, 0.37);
+    display:flex;
+    justify-content: space-around;
+    z-index: -1000;
+    flex-wrap: wrap;
+
+    
+} */
+
+
+
+
+.my_navbar{
+    color: #212529;
+}
